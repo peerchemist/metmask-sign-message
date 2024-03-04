@@ -2,7 +2,7 @@
   "name": "metamask-sign-message",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://peerchemist.github.io/metamask-sign-message",
+  "homepage": "https://peerchemist.github.io/metamask-sign-message/",
   "dependencies": {
     "@metamask/detect-provider": "^2.0.0",
     "@testing-library/jest-dom": "^5.17.0",
